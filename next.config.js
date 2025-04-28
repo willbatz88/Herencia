@@ -1,6 +1,5 @@
-const withImages = require('next-images');
-module.exports = withImages({
-    webpack(config, options) {
-        return config
-    }
-});
+module.exports = {
+    images: {
+      domains: ['example.com'], // Reemplaza con tus dominios permitidos
+    },
+  };
