@@ -29,7 +29,7 @@
     "npm": "11.3.0",
     "package.json": "2.0.1",
     "public": "0.1.5",
-    "popperjs/core": "^2.11.8",
+    "@popperjs/core": "^2.11.8",
     "prop-types": "^15.6.0",
     "react": "19.1.0",
     "react-accessible-accordion": "5.0.1",
